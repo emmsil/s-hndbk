@@ -38,8 +38,8 @@ We expect contributors to deliver the following:
 - the business logic
 - the tests
 - documentation
-- [logs](logging.md)
-- [metrics](metrics.md)
+- [logs](logging)
+- [metrics](metrics)
 
 ## Starting a new project/application
 

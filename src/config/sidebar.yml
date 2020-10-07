@@ -1,24 +1,22 @@
 # Sidebar navigation
 
-- label: 'Introduction'
-  link: '/'
-- label: 'Getting started'
-  link: '/getting-started'
-- label: Usage
+- label: 'Welcome'
+  link: '/welcome'  
+- label: 'Technical direction'
+  link: '/technical-direction'
+- label: 'Teamwork'
+  link: '/teamwork'
+- label: 'Monorepo'
+  link: '/monorepo'
+- label: 'Code standards'
+  link: 'code-standards'
+- label: Design Guide
   items:
-    - label: 'Creating docs'
-      link: '/usage/creating-docs'
-    - label: 'Navigation'
-      link: '/usage/navigation'
-    - label: 'Shadowing'
-      link: '/usage/shadowing'
-- label: More
-  items:
-    - label: FAQ
-      link: /faq
-    - label: Changelog
-      link: /changelog
-- label: Community
-  items:
-    - label: 'Github'
-      link: https://github.com/rocketseat/gatsby-themes
+    - label: 'README.md'
+      link: '/docs/README'
+    - label: 'Once-Only'
+      link: '/docs/once-only'
+    - label: 'Resource Oriented Design'
+      link: '/docs/resource-oriented-design'
+    - label: 'Naming Conventions'
+      link: '/docs/naming-conventions'
